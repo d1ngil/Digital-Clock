@@ -20,3 +20,7 @@ A simple digital clock application built with PyQt5.
 3. Run the program with:
    ```bash
    python digital_clock.py
+
+## 📸 App View
+
+![Digital clock Screenshot](./ss3.png)
